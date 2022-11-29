@@ -2,7 +2,7 @@
 
 ### Hi there, I am Abhineet Anand 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-abhineet-anand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhineet-anand/)](https://www.linkedin.com/in/abhineet-anand/)
+[![Linkedin Badge](https://img.shields.io/badge/-abhineetanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhineet-anand/)](https://www.linkedin.com/in/abhineet-anand/)
 [![Gmail Badge](https://img.shields.io/badge/-abhineet.anand.2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhineet.anand.2000@gmail.com)](mailto:abhineet.anand.2000@gmail.com)
 
 🛠**Tech Stack**
